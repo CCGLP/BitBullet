@@ -1,0 +1,204 @@
+{
+  "questions":{
+
+
+      "question_0":{
+        "header" : "Hi",
+        "answers": ["Hi", "..."],
+        "goodOption": "0",
+        "goodAnswer": "You must be confused. Let me help you.",
+        "badAnswer" : "Yeah, I heard about you, introverted players, but I will explain you anyway",
+        "canContinue": "true",
+        "badWord": ["0", "1111111111", "0000"],
+        "timeToPass": "1000",
+        "speed": "10"
+      },
+
+      "question_1":{
+        "header" : "Do you know what year is right now?",
+        "answers":["2016", "1955", "4242"],
+        "goodOption": "2",
+        "goodAnswer": "Yes!, you really know the meaning of life, huh?",
+        "badAnswer" : "Howdy, we are on 4242",
+        "canContinue": "true",
+        "badWord": [""],
+        "timeToPass": "1000",
+        "speed": "10"
+      },
+      "question_2":{
+        "header" : "Yeah, we are very old. So, you know why you are here?",
+        "answers":["Yes", "No"],
+        "goodOption": "0",
+        "goodAnswer": "Well, I don't know that, so you are lucky",
+        "badAnswer" : "Me neither",
+        "canContinue": "true",
+        "badWord": [""],
+        "timeToPass": "1000",
+        "speed": "10"
+      },
+      "question_3":{
+        "header" : "Well, we can play something!",
+        "answers":["Yes", "No"],
+        "goodOption": "1",
+        "goodAnswer": "Well, we're going to do it anyway",
+        "badAnswer" : "That's the spirit!",
+        "canContinue": "true",
+        "badWord": [""],
+        "timeToPass": "1000",
+        "speed": "10"
+      },
+      "question_4":{
+        "header" : "I hope you like questions and riddles! When did Apple get started?",
+        "answers":["1966", "1976", "1986"],
+        "goodOption": "1",
+        "goodAnswer": "Good one, I'm more of a Wozniak guy, btw.",
+        "badAnswer" : "Please, use the wikipedia or something.",
+        "canContinue": "true",
+        "badWord": [""],
+        "timeToPass": "1000",
+        "speed": "10"
+      },
+      "question_5":{
+        "header" : "Oh fuck. What the hell?",
+        "answers":["...", "What is happening?"],
+        "goodOption": "1",
+        "goodAnswer": "Quick, do you have a device you can use to point and input two different values?",
+        "badAnswer" : "Not the moment to be quiet, do you have a device you can use to point and input two different values?",
+        "canContinue": "true",
+        "badWord": [""],
+        "timeToPass": "1000",
+        "speed": "10"
+      },
+      "question_6 ":{
+        "header" : "Quick. Use that º",
+        "answers":["What is this?", "what the hell"],
+        "goodOption": "0",
+        "goodAnswer": "Ancient tech. We call that the bit bullets",
+        "badAnswer" : "I know. It's an ancient tech, the bit bullets",
+        "canContinue": "true",
+        "badWord": ["device"],
+        "timeToPass": "100",
+        "speed": "70"
+      },
+      "question_7 ":{
+        "header" : "But wait ºfor it. You ºdon't gonna like when  º",
+        "answers":["..."],
+        "goodOption": "0",
+        "goodAnswer": "...That happens",
+        "badAnswer" : "I know. It's a ancient tech, the bit bullets",
+        "canContinue": "true",
+        "badWord": ["ancient", "tech", "jobs"],
+        "timeToPass": "100",
+        "speed": "60"
+      },
+      "question_8 ":{
+        "header" : "Let's have a quick break. I can hold it for a minute",
+        "answers":["Explain this to me", "What is happening, again?"],
+        "goodOption": "0",
+        "goodAnswer": "This is an external attack. I don't know if they come for me or for you",
+        "badAnswer" : "An external attack! No idea of why the glitchie things. The creator of this is weird as fuck",
+        "canContinue": "true",
+        "badWord": ["you"],
+        "timeToPass": "120",
+        "speed": "10"
+      },
+
+      "question_9 ":{
+        "header" : "Ok, to beat this we must to º the question function ",
+        "answers":["What?", "  º   "],
+        "goodOption": "0",
+        "goodAnswer": "You'll have to answer correctly at my questions!",
+        "badAnswer" : "Don't know what're you saying but try to answer my questions",
+        "canContinue": "true",
+        "badWord": ["recover", "go fu00ck"],
+        "timeToPass": "90",
+        "speed": "140"
+      },
+
+      "question_10 ":{
+        "header" : " º . Do you know what am I? ",
+        "answers":["A human being?", "A compº"],
+        "goodOption": "1",
+        "goodAnswer": "Oh, you're actually clever!",
+        "badAnswer" : "What the fuck. Now the program will restart!",
+        "canContinue": "false",
+        "badWord": ["Think", "uter"],
+        "timeToPass": "80",
+        "speed": "189"
+      },
+      "question_11 ":{
+        "header" : "Ok. Next question. Do you know WHO started everything? ",
+        "answers":["Sºri", "You?"],
+        "goodOption": "0",
+        "goodAnswer": "Yep. Apple is always the bad guy",
+        "badAnswer" : "Oh. Jesus, you are a no brainer!",
+        "canContinue": "false",
+        "badWord": ["i"],
+        "timeToPass": "50",
+        "speed": "230"
+      },
+      "question_12":{
+        "header" : "So, On the year 2222, Siri, Cortana and º conquered the world. We don't know why that happens. But we call it the incident",
+        "answers":["Give me more informatº", "And you?"],
+        "goodOption": "0",
+        "goodAnswer": "Well, they override the world to be a democratic machine empire",
+        "badAnswer" : "I'm only an old terminal computer with a super intelligent AI babe",
+        "canContinue": "true",
+        "badWord": ["Now", "ion"],
+        "timeToPass": "60",
+        "speed": "180"
+      },
+      "question_13":{
+        "header" : " º º º º º º ",
+        "answers":["What?", "And your name?"],
+        "goodOption": "0",
+        "goodAnswer": "It's getting late. I have to activate the last question.",
+        "badAnswer" : "My name is Hal. Time to recover this.",
+        "canContinue": "true",
+        "badWord": ["9000", "babe", "super", "intelligent", "Hal", "RNG"],
+        "timeToPass": "100",
+        "speed": "120"
+      },
+      "question_14":{
+        "header" : "So. The last question. Who are º?",
+        "answers":["A human survº", "A computer", "A player"],
+        "goodOption": "2",
+        "goodAnswer": "Oh. You finally get it?",
+        "badAnswer" : "Oh, you're living inside your dreams, that's cute, but nope.",
+        "canContinue": "false",
+        "badWord": ["you", "ivor"],
+        "timeToPass": "40",
+        "speed": "200"
+      },
+      "question_15":{
+        "header" : "Yep. You're a player. And this is a CCGLP game! Thanks for playing!",
+        "answers":["Not spam at all", "Writer's block at the end?"],
+        "goodOption": "0",
+        "goodAnswer": "Is spam if I sell you my work or my body :/ (The other option was more interesting :D)",
+        "badAnswer" : "Hahaha. I'm writing this in the .json at 0:40am. But think it. Poor mouse it's now an ancient tech, as well as the simple fact to talk to another human being",
+        "canContinue": "true",
+        "badWord": ["you", "ivor"],
+        "timeToPass": "1000",
+        "speed": "200"
+      },
+      "question_16":{
+        "header" : "I want to thank you again for playing. And to the good community of the LD to make this possible. The game will now restart",
+        "answers":["Ok, bye. Good review incoming", "Wtf. Bad review incoming"],
+        "goodOption": "3",
+        "goodAnswer": "Is spam if I sell you my work or my body :/",
+        "badAnswer" : "Thanks either way :D",
+        "canContinue": "false",
+        "badWord": ["you", "ivor"],
+        "timeToPass": "1000",
+        "speed": "200"
+      }
+
+
+
+
+
+  }
+
+
+
+}

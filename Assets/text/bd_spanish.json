@@ -1,0 +1,204 @@
+{
+  "questions":{
+
+
+      "question_0":{
+        "header" : "Hola",
+        "answers": ["Hola", "..."],
+        "goodOption": "0",
+        "goodAnswer": "Estaras confuso. Dejame ayudarte",
+        "badAnswer" : "Ah, ya. He oído hablar de esta clase de gente, jugadores introvertidos. Pero te voy a ayudar igualmente",
+        "canContinue": "true",
+        "badWord": ["0", "1111111111", "0000"],
+        "timeToPass": "1000",
+        "speed": "10"
+      },
+
+      "question_1":{
+        "header" : "Sabes en que año estamos?",
+        "answers":["2016", "1955", "4242"],
+        "goodOption": "2",
+        "goodAnswer": "Muy bien! Tu también sabes el significado de la vida ^^",
+        "badAnswer" : "Por Dios, estamos en el 4242",
+        "canContinue": "true",
+        "badWord": [""],
+        "timeToPass": "1000",
+        "speed": "10"
+      },
+      "question_2":{
+        "header" : "Sep. Somos demasiado viejos. Bueno, ¿sabes por qué estas aquí?",
+        "answers":["Si", "No"],
+        "goodOption": "0",
+        "goodAnswer": "Bueno, yo no tengo ni idea, así que eres bastante suertudo",
+        "badAnswer" : "Igual, ni idea.",
+        "canContinue": "true",
+        "badWord": [""],
+        "timeToPass": "1000",
+        "speed": "10"
+      },
+      "question_3":{
+        "header" : "Bueno, pues podríamos jugar a algo!",
+        "answers":["Si", "No"],
+        "goodOption": "1",
+        "goodAnswer": "Lo vamos a hacer de todas maneras.",
+        "badAnswer" : "Así me gusta, ese es el espíritu!",
+        "canContinue": "true",
+        "badWord": [""],
+        "timeToPass": "1000",
+        "speed": "10"
+      },
+      "question_4":{
+        "header" : "Espero que te gusten las preguntas o los acertijos. ¿Cuando se fundó Apple?",
+        "answers":["1966", "1976", "1986"],
+        "goodOption": "1",
+        "goodAnswer": "Buena.No se lo digas a nadie pero en realidad me gusta mas Steve Wozniak",
+        "badAnswer" : "Usa la wikipedia o algo...",
+        "canContinue": "true",
+        "badWord": [""],
+        "timeToPass": "1000",
+        "speed": "10"
+      },
+      "question_5":{
+        "header" : "Mierda. ¿Que cojones?",
+        "answers":["...", "¿Que está pasando?"],
+        "goodOption": "1",
+        "goodAnswer": "Rápido. ¿Tienes algún dispositivo cerca con el que puedas apuntar e introducir dos valores distintos? ",
+        "badAnswer" : "No es el momento adecuado para estar callado, ¿tienes algún dispositivo cerca con el que puedas apuntar e introducir dos valores distintos?",
+        "canContinue": "true",
+        "badWord": [""],
+        "timeToPass": "1000",
+        "speed": "10"
+      },
+      "question_6 ":{
+        "header" : "Rápido, usa ese º",
+        "answers":["¿Que es esto?", "Que ostias..."],
+        "goodOption": "0",
+        "goodAnswer": "Tecnología antigua. Lo llamamos balas del bit",
+        "badAnswer" : "Ya. Es una tecnología antigua, conocida como las balas del bit",
+        "canContinue": "true",
+        "badWord": ["dispositivo"],
+        "timeToPass": "100",
+        "speed": "70"
+      },
+      "question_7 ":{
+        "header" : "Pero espera ºun momento. No ºte va a gustar cuando  º",
+        "answers":["..."],
+        "goodOption": "0",
+        "goodAnswer": "...Eso pase",
+        "badAnswer" : "I know. It's a ancient tech, the bit bullets",
+        "canContinue": "true",
+        "badWord": ["antigua", "tecnología", "Jobs"],
+        "timeToPass": "100",
+        "speed": "60"
+      },
+      "question_8 ":{
+        "header" : "Vamos a relajarnos un poco, puedo contenerlo por un minuto.",
+        "answers":["Explicame esto.", "¿Que decías que está pasando?"],
+        "goodOption": "0",
+        "goodAnswer": "Es un ataque externo. Ni idea de si vienen a por mí o a por tí.",
+        "badAnswer" : "¡Un ataque externo! Ni idea de que hacen las mierdas glitcheadas. El desarrollador de esto es mas raro que un perro verde",
+        "canContinue": "true",
+        "badWord": ["you"],
+        "timeToPass": "120",
+        "speed": "10"
+      },
+
+      "question_9 ":{
+        "header" : "Vale, para vencer a esto debemos º la función de la pregunta ",
+        "answers":["¿Que?", "  º   "],
+        "goodOption": "0",
+        "goodAnswer": "¡Que tendrás que responder correctamente a mis preguntas!",
+        "badAnswer" : "Ni idea de lo que estás diciendo, pero intenta contestar bien",
+        "canContinue": "true",
+        "badWord": ["recuperar", "PUTO CanNcEr"],
+        "timeToPass": "90",
+        "speed": "140"
+      },
+
+      "question_10 ":{
+        "header" : " º .¿Sabes lo que soy? ",
+        "answers":["¿Un ser humano?", "Un ordenº"],
+        "goodOption": "1",
+        "goodAnswer": "Oh, ¡si eres listo y todo!",
+        "badAnswer" : "Que cojones. El programa se va a reiniciar.",
+        "canContinue": "false",
+        "badWord": ["Piensa", "ador"],
+        "timeToPass": "80",
+        "speed": "189"
+      },
+      "question_11 ":{
+        "header" : "Vale. Siguinte pregunta. ¿Sabes quien lo ha comenzado todo? ",
+        "answers":["Sºri", "¿Tú?"],
+        "goodOption": "0",
+        "goodAnswer": "Si, Apple siempre es el malo de la peli",
+        "badAnswer" : "Por favor. Dios dame paciencia...",
+        "canContinue": "false",
+        "badWord": ["i"],
+        "timeToPass": "50",
+        "speed": "230"
+      },
+      "question_12":{
+        "header" : "Vale, En el año 2222, Siri, Cortana y º conquistaron el mundo. No tenemos ni idea de porque pasó, pero lo llamamos el incidente",
+        "answers":["Dame más informacº", "¿Y tú?"],
+        "goodOption": "0",
+        "goodAnswer": "Bueno. Conquistaron el mundo para tener una super democracia gobernada por las máquinas",
+        "badAnswer" : "Solo soy un viejo ordenador con un programa de super IA querido.",
+        "canContinue": "true",
+        "badWord": ["Now", "ion"],
+        "timeToPass": "60",
+        "speed": "180"
+      },
+      "question_13":{
+        "header" : " º º º º º º ",
+        "answers":["¿Que?", "¿Como te llamas?"],
+        "goodOption": "0",
+        "goodAnswer": "Se está haciendo tarde, hora de activar la última pregunta.",
+        "badAnswer" : "Mi nombre es Hal. Hora de recuperarnos de esto",
+        "canContinue": "true",
+        "badWord": ["9000", "querido", "super", "inteligente", "Hal", "RNG"],
+        "timeToPass": "100",
+        "speed": "120"
+      },
+      "question_14":{
+        "header" : "Vale, ultima pregunta. ¿Quien eres º",
+        "answers":["Un supervº humano", "Un ordenador", "Un jugador"],
+        "goodOption": "2",
+        "goodAnswer": "Bien! Por fin lo has pillado.",
+        "badAnswer" : "Bueno, no está del todo mal vivir en sueños, pero nope.",
+        "canContinue": "false",
+        "badWord": ["tu", "iviente"],
+        "timeToPass": "40",
+        "speed": "200"
+      },
+      "question_15":{
+        "header" : "Si, eres un jugador. Y esto es un juego de CCGLP. Muchas gracias por jugar :D",
+        "answers":["0 spam eh?", "¿No se te ocurría nada para el final?"],
+        "goodOption": "0",
+        "goodAnswer": "Solo es spam si vendo mi cuerpo o mi trabajo :/. La otra opción era más interesante :)",
+        "badAnswer" : "Jajajaja. Estoy escribiendo esto en el .json a las 00:47 . Pero piensalo. El pobre ratón es ahora una tecnología desfasada. Así como el simple hecho de entablar una conversación con otra persona",
+        "canContinue": "true",
+        "badWord": ["you", "ivor"],
+        "timeToPass": "1000",
+        "speed": "200"
+      },
+      "question_16":{
+        "header" : "Quiero darte las gracias de nuevo por jugar. Así como a la comunidad de la LD y a GameBoss por la buena jam :D. Ahora se reiniciará el juego.",
+        "answers":["Ok, perfecto. Ahora te dejo una buena review", "Puta mierda, ahora te dejo una mala review"],
+        "goodOption": "3",
+        "goodAnswer": "Is spam if I sell you my work or my body :/",
+        "badAnswer" : "Bueno, gracias de cualquiera de las maneras :D",
+        "canContinue": "false",
+        "badWord": ["you", "ivor"],
+        "timeToPass": "1000",
+        "speed": "200"
+      }
+
+
+
+
+
+  }
+
+
+
+}
